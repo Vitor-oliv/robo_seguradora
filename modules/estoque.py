@@ -15,8 +15,8 @@ class ConsultorEstoque:
         self.config = config
         
         # Endpoint e APIKEY extraídos do manual Borgali-Demak v2.1
-        self.api_url = "https://nfe9.websiteseguro.com/borgalilog/public/v2/PRODUTOS"
-        self.apikey = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjoiYWRtaW4iLCJwYXNzIjoiMTIzNCJ9.jymZ8KW7Uxf3lzIgWSRaCa7e_fyk1HsaYtf6dngEP7s"
+        self.api_url = ""
+        self.apikey = ""
         
         # Conforme o manual, o Authorization deve conter a APIKEY
         self.headers = {

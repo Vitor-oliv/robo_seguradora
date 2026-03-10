@@ -11,14 +11,14 @@ DELAY_ENTRE_ACOES = 1  # Pausa entre cliques para o site não travar
 
 # --- CREDENCIAIS DA SEGURADORA ---
 
-SEGURADORA_URL = "https://www.planetun.com.br/planetun-v2/sistema/views/fornecedor/index.cfm"
-SEGURADORA_EMPRESA = "SG"
-SEGURADORA_LOGIN = "masterSG"
-SEGURADORA_SENHA = "Planetun@23"
+SEGURADORA_URL = "**"
+SEGURADORA_EMPRESA = "**"
+SEGURADORA_LOGIN = "**"
+SEGURADORA_SENHA = "**"
 
 # --- CONFIGURAÇÕES DA API BORGALI-DEMAK ---
-API_ENDPOINT = "https://nfe9.websiteseguro.com/borgalilog/public/v2/PRODUTOS"
-API_KEY = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyIjp1WWRtaW11RWtaW4iLCJwyXNraWjoiMTIzNCJ9.jymZ8KW7Uxf3lzlgWSRaCa7e_fyk1HsaYtf6dngEP7s"
+API_ENDPOINT = "***"
+API_KEY = "***"
 API_COD_CLI = "DEM"
 
 # --- SELETORES DO SITE ---
